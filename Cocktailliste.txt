@@ -2,7 +2,7 @@
 <List>
 <Cocktail>
     <Namen> Sweety </Namen>
-    <Bild path = "bahamabay.png"/>
+    <Bild path = "https://raw.githubusercontent.com/fabian1606/cocktailmachine/main/sweety.png"/>
     <Zutaten>
         <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
         <Zutat ZutatID = "2" Maenge = "4" Name = "Ananassaft"/>
@@ -10,7 +10,7 @@
 </Cocktail>
 <Cocktail>
     <Namen> Rosaroter Panther </Namen>
-    <Bild path = "babysimplyred.png"/>
+    <Bild path = "https://raw.githubusercontent.com/fabian1606/cocktailmachine/main/pink%20panther.png"/>
     <Zutaten>
         <Zutat ZutatID = "1" Maenge = "9" Name = "Orangensaft"/>
         <Zutat ZutatID = "3" Maenge = "1" Name = "Kokossirup"/>
@@ -21,7 +21,7 @@
 </Cocktail>
 <Cocktail>
     <Namen> Virgin-Colada </Namen>
-    <Bild path = "bloodyscrewdriver.png"/>
+    <Bild path = "https://raw.githubusercontent.com/fabian1606/cocktailmachine/main/virgin%20colada.png"/>
     <Zutaten>
         <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
         <Zutat ZutatID = "2" Maenge = "3" Name = "Ananassaft"/>
@@ -30,7 +30,7 @@
 </Cocktail>
 <Cocktail>
     <Namen> Coconut </Namen>
-    <Bild path = "Coconut-Dream-Shake-458x1024.png"/>
+    <Bild path = "https://raw.githubusercontent.com/fabian1606/cocktailmachine/main/coconut.png"/>
     <Zutaten>
         <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
         <Zutat ZutatID = "2" Maenge = "3" Name = "Ananassaft"/>
@@ -40,7 +40,7 @@
 </Cocktail>
 <Cocktail>
     <Namen> Caipi </Namen>
-    <Bild path = "havanacooler.png"/>
+    <Bild path = "https://raw.githubusercontent.com/fabian1606/cocktailmachine/main/caipi.png"/>
     <Zutaten>
         <Zutat ZutatID = "7" Maenge = "10" Name = "Gingerale"/>
         <Zutat ZutatID = "5" Maenge = "2" Name = "Limettensaft"/>
