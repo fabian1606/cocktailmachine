@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+<Cocktail>
+    <Namen> Sweety </Namen>
+    <Bild path = "bahamabay.png"/>
+    <Zutaten>
+        <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
+        <Zutat ZutatID = "2" Maenge = "4" Name = "Ananassaft"/>
+    </Zutaten>
+</Cocktail>
+<Cocktail>
+    <Namen> Rosaroter Panther </Namen>
+    <Bild path = "babysimplyred.png"/>
+    <Zutaten>
+        <Zutat ZutatID = "1" Maenge = "9" Name = "Orangensaft"/>
+        <Zutat ZutatID = "3" Maenge = "1" Name = "Kokossirup"/>
+        <Zutat ZutatID = "4" Maenge = "1" Name = "Grenadine"/>
+        <Zutat ZutatID = "5" Maenge = "1" Name = "Limettensaft"/>
+        <Zutat ZutatID = "6" Maenge = "2" Name = "Bitter Lemon"/>
+    </Zutaten>
+</Cocktail>
+<Cocktail>
+    <Namen> Virgin-Colada </Namen>
+    <Bild path = "bloodyscrewdriver.png"/>
+    <Zutaten>
+        <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
+        <Zutat ZutatID = "2" Maenge = "3" Name = "Ananassaft"/>
+        <Zutat ZutatID = "3" Maenge = "2" Name = "Kokossirup"/>
+    </Zutaten>
+</Cocktail>
+<Cocktail>
+    <Namen> Coconut </Namen>
+    <Bild path = "Coconut-Dream-Shake-458x1024.png"/>
+    <Zutaten>
+        <Zutat ZutatID = "1" Maenge = "4" Name = "Orangensaft"/>
+        <Zutat ZutatID = "2" Maenge = "3" Name = "Ananassaft"/>
+        <Zutat ZutatID = "3" Maenge = "3" Name = "Kokossierup"/>
+        <Zutat ZutatID = "2" Maenge = "2" Name = "Sahne"/>
+    </Zutaten>
+</Cocktail>
+<Cocktail>
+    <Namen> Caipi </Namen>
+    <Bild path = "havanacooler.png"/>
+    <Zutaten>
+        <Zutat ZutatID = "7" Maenge = "10" Name = "Gingerale"/>
+        <Zutat ZutatID = "5" Maenge = "2" Name = "Limettensaft"/>
+    </Zutaten>
+</Cocktail>
+</List>
+
